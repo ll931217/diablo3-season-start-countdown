@@ -1,0 +1,20 @@
+{
+  "infiniteLoopProtection": true,
+  "hardReloadOnChange": false,
+  "view": "browser",
+  "editor.formatOnSave": true,
+  "editor.fontSize": 15,
+  "editor.fontFamily": "'FuraCode Nerd Font', monospace",
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "workbench.editor.openSideBySideDirection": "down",
+  "svelte.plugin.typescript.diagnostics.enable": false,
+  "typescript.locale": "en",
+  "javascript.autoClosingTags": false,
+  "typescript.autoClosingTags": false,
+  "html.autoClosingTags": false,
+  "typescript.tsserver.useSeparateSyntaxServer": false,
+  "workbench.colorTheme": "Shades of Purple",
+  "editor.fontWeight": "bold",
+  "editor.fontLigatures": true
+}
